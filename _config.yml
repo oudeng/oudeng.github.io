@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Ou, DENG
-subtitle: Thinking_Space
+title: Thinking_Space
+subtitle: dengou@toki.waseda.jp
 description: 
 author: Ou, DENG
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 10
+paginate: 20 #10
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -118,7 +118,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
+  categories: /categories/
   about: /about/
   archives: /archives/
   tags: /tags/
