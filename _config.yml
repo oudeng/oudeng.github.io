@@ -122,7 +122,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
+  #sitemap: /sitemap.xml
   #commonweal: /404.html
 
 # Enable/Disable menu icons.
@@ -139,8 +139,8 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
-  sitemap: sitemap
-  commonweal: heartbeat
+  #sitemap: sitemap
+  #commonweal: heartbeat
 
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -222,7 +222,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/Logo_Deng_2.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -329,9 +329,8 @@ post_copyright:
 #   enabled: [true/false] - Replace with specific image
 #   image: url-of-image   - Images's url
 custom_logo:
-  enabled: true
-  #false
-  image: /assets/images/Logo_Deng_2.jpg
+  enabled: false
+  #image: /assets/images/Logo_Deng_2.jpg
 
 # Code Highlight theme
 # Available value:
