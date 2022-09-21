@@ -93,7 +93,8 @@ since: 2022
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false 
+#true
 
 # ---------------------------------------------------------------
 # SEO Settings
