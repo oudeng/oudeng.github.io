@@ -6,7 +6,7 @@
 # Site
 title: Cogito, ergo sum.
 subtitle: dengou@toki.waseda.jp
-description: 
+description: Notes of research and study
 author: Ou, DENG
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -84,7 +84,7 @@ keywords: "Causal inference, Machine learning, Deep learning, Math, Networks, Co
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 since: 2022
