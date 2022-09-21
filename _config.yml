@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Causal inference, Machine learning, Deep learning, Jekyll, NexT"
+keywords: "Causal inference, Machine learning, Deep learning, Math, Networks, Complex systems"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -271,7 +271,7 @@ sidebar:
 #links_layout: block
 #links_layout: inline
 #links:
-  #Title: http://example.com/
+#Title: http://example.com/
 
 
 # ---------------------------------------------------------------
@@ -502,7 +502,6 @@ rating:
   id:     #<app_id>
   color:  fc6423
 
-
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
@@ -528,13 +527,11 @@ busuanzi_count:
   page_pv_header: <i class="fa fa-file-o"></i>
   page_pv_footer:
 
-
 # Tencent analytics ID
 # tencent_analytics:
 
 # Tencent MTA ID
 # tencent_mta:
-
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
 baidu_push: false
@@ -558,14 +555,14 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: false
+  enable: true
+  #false
   hits:
     per_page: 10
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}"
     hits_stats: "${hits} results found in ${time} ms"
-
 
 # Local search
 local_search:
