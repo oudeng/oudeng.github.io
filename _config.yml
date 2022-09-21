@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Thinking_Space
+title: Cogito, ergo sum.
 subtitle: dengou@toki.waseda.jp
 description: 
 author: Ou, DENG
@@ -143,18 +143,14 @@ menu_icons:
   sitemap: sitemap
   commonweal: heartbeat
 
-
-
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
-
 
 # ---------------------------------------------------------------
 # Font Settings
