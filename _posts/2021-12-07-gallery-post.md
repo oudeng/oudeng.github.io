@@ -1,7 +1,6 @@
 ---
 type: photo
 title: Gallery Post
-date: 2014-11-18 15:45:20
 categories:
  - Test
 photos:
