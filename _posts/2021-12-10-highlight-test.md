@@ -1,5 +1,5 @@
 ---
-title: Highlight Test
+title: Highlight, No date mark in title.
 categories:
  - Test
 tags:
