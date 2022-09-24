@@ -5,8 +5,6 @@ categories:
 - Foo
 - Bar
 - Baz
-- Test_1
-- Test_2
 ---
 
 This post contains 3 categories. Make sure your theme can display all of the categories.
