@@ -1,10 +1,11 @@
-# Memo of Deng 2022-09-29
+# Memo of Deng 2022-09-20
 ### Why this theme?
 > After trying 30+ Jekyll themes, I notice the "NexT" is the best one I want: Clear structure and config files; Nice design; Multilanguages.
 
 ### What I customized?
 > Of course, some detailed customizations in _config.yml
 > Activate MathJax with Jekyll by add Javascript codes in _layout/post.html
+> Original demo files are categorized into "Text" for my personal reference. 
 
 
 ## The original README.md of the author of "NexT" is following:
