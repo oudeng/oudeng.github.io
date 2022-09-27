@@ -7,7 +7,7 @@
 > Activate MathJax with Jekyll by add Javascript codes in _layout/post.html
 
 
-# The original README.md
+## The original README.md of the author of "NexT" is following:
 # NexT
 
 > NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
