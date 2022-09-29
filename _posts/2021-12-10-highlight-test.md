@@ -7,8 +7,7 @@ tags:
 
 This is a highlight test.
 
-<!-- more -->
-
+<!--more-->
 # Normal block
 
 ```
