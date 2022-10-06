@@ -1,6 +1,7 @@
 # Memo of Deng 2022-09-20
 ### Why this theme?
-> After trying 30+ Jekyll themes, I notice the "NexT" is the best one I want: Clear structure and config files; Nice design; Multilanguages.
+> After trying 30+ Jekyll themes, I notice the "NexT" is the best one I want。
+> Clear structure and config files; Nice design; Multilanguages and auto well-fitting for PC and mobile devices.
 
 ### What I customized?
 > Of course, some detailed customizations in _config.yml
