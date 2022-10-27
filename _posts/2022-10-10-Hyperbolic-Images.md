@@ -4,10 +4,20 @@ categories:
  - Hyperbolic
 ---
 
+[Hyperbolic sapce](https://en.wikipedia.org/wiki/Hyperbolic_space) mignt be a key to explore causal relationship in big data.
+
+My understanding:
+1. Tree logical staructure.
+2. N dimension.
+3. Hyperbolic is mnore general than plain.
+
+
+
+![Hyperbolic-1](/assets/images/hyp_1.png)
 
 ![Hyperbolic-2](/assets/images/hyp_2.jpg)
 
-![Hyperbolic-1](/assets/images/hyp_1.png)
+
 
 ![Hyperbolic Animation](/assets/images/hyp_ani.gif)
 
