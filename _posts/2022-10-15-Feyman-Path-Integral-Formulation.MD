@@ -11,7 +11,7 @@ However, while these two solutions are out of the questions, how do we do?
 
 Dr.Feyman faced the similar problem in quantum mechannics reaserch and developed Feynman's path integral formulation.
 
-<!--more>
+<!--more-->
 
 [Feynman's Infinite Quantum Paths](https://www.youtube.com/watch?v=vSFRN-ymfgE&t=125s&ab_channel=PBSSpaceTime)
 
