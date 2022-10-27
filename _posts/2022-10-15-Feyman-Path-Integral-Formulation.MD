@@ -1,7 +1,7 @@
 ---
 title: Feynman's Infinite Quantum Paths
 categories:
- - Hyperbolic
+ - Quantum
 ---
 
 Cause-Effect can be described as DAG(Directed Acyclic Graph, by Judea Pearl).
