@@ -14,6 +14,7 @@ description: Gallery Post Test. 测试图片类文章的显示。
 Show pic from local.
 
 <img class="centered" src="../assets/images/Poincare_disk_model.png" />
+![Poincare Disk Model](/assets/images/Poincare_disk_model.png)
 
 <img class="centered" src="../assets/images/hyp_ani.gif" />
 
