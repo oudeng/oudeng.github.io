@@ -5,7 +5,7 @@ categories:
  - Causal inference
 ---
 
-Python tools for causal inference.
+Python tools for causal inference. Updated on Oct 2022.
 
 <!--more-->
 
@@ -13,5 +13,8 @@ Python tools for causal inference.
 
 [LiNGAM-Doc](https://lingam.readthedocs.io/en/latest/installation.html)
 
+[CausalML](https://causalml.readthedocs.io/en/latest/about.html)
+
+[casual-learn](https://causal-learn.readthedocs.io/en/latest/index.html)
 
 [Py-Why](https://py-why.github.io/)
