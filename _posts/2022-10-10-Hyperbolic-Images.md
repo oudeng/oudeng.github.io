@@ -11,13 +11,11 @@ My understanding:
 2. N dimension.
 3. Hyperbolic is mnore general than plain.
 
-
+<!--more-->
 
 ![Hyperbolic-1](/assets/images/hyp_1.png)
 
 ![Hyperbolic-2](/assets/images/hyp_2.jpg)
-
-
 
 ![Hyperbolic Animation](/assets/images/hyp_ani.gif)
 
