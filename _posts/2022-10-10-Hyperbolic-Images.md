@@ -1,5 +1,5 @@
 ---
-title: Images
+title: Hyperbolic Images
 categories:
  - Hyperbolic
 ---
