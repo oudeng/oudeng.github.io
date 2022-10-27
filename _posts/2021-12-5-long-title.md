@@ -1,5 +1,5 @@
 ---
-title:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.
+title:  This post has a long title. Make sure the title displayed right. This post has a long title. Make sure the title displayed right. This post has a long title. Make sure the title displayed right. This post has a long title. Make sure the title displayed right.
 date: 2021-12-5 23:31:06
 categories:
 - Test
