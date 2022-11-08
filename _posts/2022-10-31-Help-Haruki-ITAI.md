@@ -1,5 +1,5 @@
 ---
-title: Help Haruki ITAI with causal data pre-deal and GPU server access.
+title: Help H.I. with causal data pre-deal and GPU server access.
 categories:
  - Python
  - Causal inference
