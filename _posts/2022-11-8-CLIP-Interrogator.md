@@ -22,12 +22,45 @@ The trail on this site.
 - The input is my face picture.
 - After a few minutes, I got the prompt output as follows:
  
-> a close up of a person wearing glasses, a character portrait, inspired by Yoshihiko Wada, pixiv contest winner, precisionism, selfie shot straight on angle, ai researcher, high forehead, loosely cropped, piano in the background, interconnections, 3 6 years old, stanley lau, black turtleneck
+> a close up of a person wearing glasses, a character portrait
+Right description of the picture.
 
-Really interesting. 
-However, who is Yoshihiko Wada? I searched in web and found the answer. 
+> inspired by Yoshihiko Wada
+Who is Yoshihiko Wada? I searched in web and found the answer. 
 ![What does it say to my face picture?](/assets/images/20221108_2.png)
 
+> pixiv contest winner
+No. Not me. But happy with the description.
+
+> precisionism
+Yes, of inference.
+
+> selfie shot straight on angle
+Yes, of recognition.
+
+> ai researcher
+Yes, of inference.
+
+> high forehead
+Yes, of recognition.
+
+> loosely cropped
+Yes, of recognition.
+
+> piano in the background
+Yes, of inference.
+
+> interconnections
+Yes, of inference.
+
+> 36 years old
+No. But really satisfied with the description.
+
+> stanley lau, black turtleneck.
+Yes, of recognition.
+
+
+Really interesting. 
 
 P.S.:
 It might be similar to the [GAN Inversion](https://github.com/weihaox/awesome-gan-inversion).
