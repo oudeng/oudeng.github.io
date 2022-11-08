@@ -5,7 +5,7 @@ categories:
  - Paper
 
 tags:
- Reinforcement learning, Game theory, Multiagent system, Human behavior modeling
+ Reinforcement, #Game theory, #Multiagent system, Human behavior modeling
 ---
 
 It is the preparation of the paper submission for [DHM](https://2023.hci.international/dhm), HCI International 2023. 
