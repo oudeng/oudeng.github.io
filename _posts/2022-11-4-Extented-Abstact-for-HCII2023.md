@@ -1,5 +1,5 @@
 ---
-title: Extended abstract for DHM HCI International 2023
+title: Extended abstract for DHM, HCI International 2023
 
 categories:
  - Paper
