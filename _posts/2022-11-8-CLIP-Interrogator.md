@@ -23,41 +23,53 @@ The trail on this site.
 - After a few minutes, I got the prompt output as follows:
  
 > a close up of a person wearing glasses, a character portrait
-Right description of the picture.
+
+*Right description of the picture.*
 
 > inspired by Yoshihiko Wada
-Who is Yoshihiko Wada? I searched in web and found the answer. 
+
+*Who is Yoshihiko Wada? I searched in web and found the answer. *
 ![What does it say to my face picture?](/assets/images/20221108_2.png)
 
 > pixiv contest winner
-No. Not me. But happy with the description.
+
+*No. Not me. But happy with the description.*
 
 > precisionism
-Yes, of inference.
+
+*Yes, of inference.*
 
 > selfie shot straight on angle
-Yes, of recognition.
+
+*Yes, of recognition.*
 
 > ai researcher
-Yes, of inference.
+
+*Yes, of inference.*
 
 > high forehead
-Yes, of recognition.
+
+*Yes, of recognition.*
 
 > loosely cropped
-Yes, of recognition.
+
+*Yes, of recognition.*
 
 > piano in the background
-Yes, of inference.
+
+*Yes, of inference.*
 
 > interconnections
-Yes, of inference.
+
+*Yes, of inference.*
 
 > 36 years old
-No. But really satisfied with the description.
+
+*No. But really satisfied with the description.*
 
 > stanley lau, black turtleneck.
-Yes, of recognition.
+
+*Yes, of recognition.*
 
 
 Really interesting. 
