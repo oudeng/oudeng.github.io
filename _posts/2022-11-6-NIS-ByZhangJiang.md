@@ -13,13 +13,13 @@ tags:
 
 Neural Information Squeezer(NIS), an important presentation of causal emergence by [Prof.Zhang](Https://jake.swarma.org).
 
-https://campus.swarma.org/course/4523/study
-
-https://pattern.swarma.org/study_group/16
-
 <!--more-->
 
 Three hours and half presentation for the latest important work.
+
+[Study link-1](https://campus.swarma.org/course/4523/study)
+
+[Study link-2](https://pattern.swarma.org/study_group/16)
 
 Related work:
 - J.Zhang et al., [Universal framework for reconstructing complex networks and node dynamics from discrete or continuous dynamics data](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034315)
