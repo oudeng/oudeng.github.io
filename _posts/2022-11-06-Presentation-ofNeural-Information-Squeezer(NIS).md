@@ -1,5 +1,5 @@
 ---
-title: Presentation of Prof.Zhang: Neural Information Squeezer(NIS)
+title: Presentation of Prof.Zhang -- Neural Information Squeezer(NIS)
 categories:
  - Causal emergence
  - Informatics
