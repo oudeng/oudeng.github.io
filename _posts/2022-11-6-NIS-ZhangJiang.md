@@ -11,7 +11,7 @@ tags:
  - Emergence
 ---
 
-Important presentation of causal emergence by [Prof.Zhang](Https://jake.swarma.org)
+Neural Information Squeezer(NIS), an important presentation of causal emergence by [Prof.Zhang](Https://jake.swarma.org).
 
 https://campus.swarma.org/course/4523/study
 
