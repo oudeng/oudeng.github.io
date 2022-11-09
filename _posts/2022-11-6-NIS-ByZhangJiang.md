@@ -1,14 +1,14 @@
-
 ---
 title: Presentation of Prof.Zhang: Neural Information Squeezer(NIS)
+
 categories:
  - Causal emergence
  - Informatics
  - Data science
 
 tags:
- - Informatics
  - Emergence
+ - Informatics
 ---
 
 Neural Information Squeezer(NIS), an important presentation of causal emergence by [Prof.Zhang](Https://jake.swarma.org).
