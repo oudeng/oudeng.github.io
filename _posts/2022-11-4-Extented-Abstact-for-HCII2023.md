@@ -22,4 +22,4 @@ Human behavior is the potential and expressive capacity (mental, physical, and s
 ### Keywords
 Reinforcement learning, Game theory, Multiagent system, Human behavior modeling
 
-Submitted on arXiv.org. Can review it [here](https://arxiv.org/submit/4587121/view).
+Submitted on arXiv.org. Review it [here](http://arxiv.org/abs/2211.03936).
