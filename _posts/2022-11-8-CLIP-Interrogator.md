@@ -9,11 +9,11 @@ tags:
  
 ---
 
-[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator) is an interesting stable diffusion demo of Text-to-image prompt inversion, i.e., output the image description text by inputting an image. It might be similar to the [GAN Inversion](https://github.com/weihaox/awesome-gan-inversion).
+[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator){:target="_blank"} is an interesting stable diffusion demo of Text-to-image prompt inversion, i.e., output the image description text by inputting an image. It might be similar to the [GAN Inversion](https://github.com/weihaox/awesome-gan-inversion){:target="_blank"}.
 
 <!--more-->
 
-In its offcial site, you will see its proud announcement: *Want to figure out what a good prompt might be to create new images like an existing one? The [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator) is here to get you answers!*
+In its offcial site, you will see its proud announcement: *Want to figure out what a good prompt might be to create new images like an existing one? The [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator){:target="_blank"} is here to get you answers!*
 
 The trail on this site.
 
