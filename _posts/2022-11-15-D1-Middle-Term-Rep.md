@@ -7,4 +7,4 @@ categories:
 ---
 
 
-[D1 Middle Term Report](https://github.com/oudeng/oudeng.github.io/blob/master/assets/files/D1_Middle_deng.pdf){:target="_blank"}
+[D1 Middle Term Report](https://github.com/oudeng/oudeng.github.io/blob/master/assets/files/D1_Middle_Deng.pdf){:target="_blank"}
