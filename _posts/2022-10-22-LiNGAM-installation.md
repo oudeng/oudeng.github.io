@@ -10,9 +10,5 @@ Install LiNGAM in python environmernt and test its basic functions.
 
 <!--more-->
 
-Python environment:
-
-LiNGAM package info:
-
-Test plan:
+Reference: [LiNGAM by Prof.Shimizu](https://sites.google.com/view/sshimizu06/lingam?pli=1){:target="_blank"}
 
