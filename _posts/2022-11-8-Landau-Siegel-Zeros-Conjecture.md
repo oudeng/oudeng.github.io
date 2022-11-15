@@ -10,7 +10,7 @@ tags:
 ---
 
 I am proud to mark this speech of Prof.Zhang about his latest work on the Landau-Siegel Zeros Conjecture.
-See it in Youtube, [here](https://www.youtube.com/watch?v=LIPDXWlHQ6Y&ab_channel=DrSix%E5%85%AD%E5%93%A5CHANNEL).
+See it in [Youtube, here](https://www.youtube.com/watch?v=LIPDXWlHQ6Y&ab_channel=DrSix%E5%85%AD%E5%93%A5CHANNEL){:target="_blank"}.
 
 <!--more-->
 
