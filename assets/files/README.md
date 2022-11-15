@@ -1,4 +1,8 @@
+------------
+To add an attached PDF by link.
+[D1 Middle Term Report](https://github.com/oudeng/oudeng.github.io/blob/master/assets/files/D1_Middle_Deng.pdf){:target="_blank"}
 
+-------------
 [To add a folder in GitHub](https://intellipaat.com/community/20249/create-folder-in-github-how-to-create-folder-in-github-repository)
 
 You cannot create an empty folder and then add files to that folder, but instead, the creation of a folder must happen together with the addition of at least a single file. On Github you can do it this way:
