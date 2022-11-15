@@ -12,5 +12,4 @@ tags:
 ---
 
 I prepared them for the NIS member python study. Useful for data or paper figure preparation.
-
-[Click my GitHub repo here](https://github.com/oudeng/Python-plot-datapre).
+[See in my GitHub repo here](https://github.com/oudeng/Python-plot-datapre).
