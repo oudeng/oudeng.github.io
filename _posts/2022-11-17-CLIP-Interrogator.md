@@ -22,65 +22,41 @@ The trail on this site.
 - The input is my face picture.
 - After a few minutes, I got the prompt output as follows:
  
-```
-a close up of a person wearing glasses, a character portrait
-```
+`a close up of a person wearing glasses, a character portrait`:
 *Right description of the picture.*
 
-```
-inspired by Yoshihiko Wada
-```
+`inspired by Yoshihiko Wada`:
 *Who is Yoshihiko Wada? I searched in web and found the answer. *
 ![What does it say to my face picture?](/assets/images/20221108_2.png)
 
-```
-pixiv contest winner
-```
+`pixiv contest winner`:
 *No. Not me. But happy with the description.*
 
-```
-precisionism
-```
+`precisionism`:
 *Yes. The machine might describe it by inferring.*
 
-```
-selfie shot straight on angle
-```
+`selfie shot straight on angle`:
 *Yes. The machine recognizes the image correctly.*
 
-```
-ai researcher
-```
+`ai researcher`:
 *Yes. The machine might describe it by inferring. Wait, wait...How does it know?*
 
-```
-high forehead
-```
+`high forehead`:
 *Yes. Inherited from my mother. Recognizes the image correctly.*
 
-```
-loosely cropped
-```
+`loosely cropped`:
 *Yes. Recognizes the image correctly.*
 
-```
-piano in the background
-```
+`piano in the background`:
 *Yes. The machine might describe it by inferring. The same astonished! How it profiles me so profoundly.*
 
-```
-interconnections
-```
+`interconnections`:
 *Yes. By infering mechanisms. Now I feel a little terrible for this machine.*
 
-```
-36 years old
-```
+`36 years old`:
 *No. But really satisfied with the description.*
 
-```
-stanley lau, black turtleneck.
-```
+`stanley lau, black turtleneck.`:
 *Yes. Excellent recognition of the image.*
 
 It's nteresting, something like physiognomy, isn't it?
