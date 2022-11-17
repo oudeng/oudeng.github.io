@@ -9,7 +9,7 @@
       {% elsif posts_length > 50 %} {% assign cheers = 'nice' %}
       {% elsif posts_length > 30 %} {% assign cheers = 'ok' %}
     {% else %}
-      {% assign cheers = 'No pains, no gains(=苦は楽の種)' %}
+      {% assign cheers = 'No pains no gains' %}
     {% endif %}
     {{ __.cheers[cheers] }}!
     {% if site.posts.size == 0 %}
