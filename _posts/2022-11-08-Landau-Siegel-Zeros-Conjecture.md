@@ -32,7 +32,8 @@ The email of **Nature Brief, on Nov 14**, mentioned the latest ahievement of Pro
 ## Updated on Nov 18, 2022.
 
 Terence Tao pointed out some "technical issues" in Yitang's manuscript with a well-said comment -- "in particular, I would not want to pressure Yitang to upload a hastily edited revision of the manuscript instead of a carefully proofread one)."
-[This is hidden in the comments of his blog last year, named "The Hardy–Littlewood–Chowla conjecture in the presence of a Siegel zero", here.](https://terrytao.wordpress.com/2021/09/15/the-hardy-littlewood-chowla-conjecture-in-the-presence-of-a-siegel-zero/comment-page-1/){:target="_blank"}
+
+[This is hidden in the comments of his blog last year, named "The Hardy–Littlewood–Chowla conjecture in the presence of a Siegel zero," here.](https://terrytao.wordpress.com/2021/09/15/the-hardy-littlewood-chowla-conjecture-in-the-presence-of-a-siegel-zero/comment-page-1/){:target="_blank"}
 
 ![Terence Tao](/assets/images/20221114_2.png)
 
