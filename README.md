@@ -1,17 +1,16 @@
-# Memo of Deng 2022-09-20
+# Thanks Jekyll theme **NexT** for the easy blogging. Appreciate and recommend it!
+
 ### Why this theme?
-> After trying 30+ Jekyll themes, I notice the "NexT" is the best one I want。
+> After trying 30+ Jekyll themes, I notice the "NexT" is the best one I want.
 > Clear structure and config files; Nice design; Multilanguages and auto well-fitting for PC and mobile devices.
 
 ### What I customized?
 > Of course, some detailed customizations in _config.yml
 > Activate MathJax with Jekyll by add Javascript codes in _layout/post.html
-> Original demo files are categorized into "Text" for my personal reference. 
-
 
 ## The original README.md of the author of "NexT" is following:
-# NexT
 
+# NexT
 > NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
 
 
