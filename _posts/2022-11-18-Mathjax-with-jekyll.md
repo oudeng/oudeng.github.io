@@ -2,12 +2,11 @@
 layout: post
 title: "MathJax with Jekyll"
 categories:
- - Test
+ - Math
 tags: [resources, jekyll]
-image: http://gastonsanchez.com/images/blog/mathjax_logo.png
 ---
 
-One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the
+One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/){:target="_blank"} is the
 ability to support **MathJax**, which means I can write LaTeX-like equations that get
 nicely displayed in a web browser, like this one \\( \sqrt{\frac{n!}{k!(n-k)!}} \\) or
 this one \\( x^2 + y^2 = r^2 \\).
@@ -26,7 +25,7 @@ browsers*.
 ### How to implement MathJax with Jekyll
 
 I followed the instructions described by Dason Kurkiewicz for
-[using Jekyll and Mathjax](http://dasonk.github.io/blog/2012/10/09/Using-Jekyll-and-Mathjax/).
+[using Jekyll and Mathjax](http://dasonk.github.io/blog/2012/10/09/Using-Jekyll-and-Mathjax/){:target="_blank"}.
 
 Here are some important details. I had to modify the Ruby library for Markdown in
 my ```_config.yml``` file. Now I'm using redcarpet so the corresponding line in the
@@ -65,7 +64,7 @@ MathJax.Hub.Config({
 
 Here's a short list of examples. To know more about the details behind MathJax, you can
 always checked the provided documentation available at
-[http://docs.mathjax.org/en/latest/](http://docs.mathjax.org/en/latest/)
+[http://docs.mathjax.org/en/latest/](http://docs.mathjax.org/en/latest/){:target="_blank"}
 
 Let's try a first example. Here's a dummy equation:
 
