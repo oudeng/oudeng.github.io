@@ -17,7 +17,7 @@ nicely displayed in a web browser, like this one \\( \sqrt{\frac{n!}{k!(n-k)!}} 
 this one \\( x^2 + y^2 = r^2 \\).
 
 [//]: # (哈哈我是注释，不会在浏览器中显示。)
-
+[//]: ``` shift+@
 
 ## heading line
 
