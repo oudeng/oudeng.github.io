@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "Minano-Machi PJ Zoom MTG"
