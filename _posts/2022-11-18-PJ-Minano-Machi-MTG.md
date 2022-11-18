@@ -6,39 +6,9 @@ categories:
 tags: [Data science, Local project]
 ---
 
-Hello
+Zoom meeting on Nov 18, 2022.
+In Dropbox folder: ```Study_D1/0学術活動/PJ_皆野町/20221116駒田さん```
 
 <!--more-->
 
-<!--
-One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the
-ability to support **MathJax**, which means I can write LaTeX-like equations that get
-nicely displayed in a web browser, like this one \\( \sqrt{\frac{n!}{k!(n-k)!}} \\) or
-this one \\( x^2 + y^2 = r^2 \\).
 
-[//]: # (哈哈我是注释，不会在浏览器中显示。)
-
-
-## heading line
-
-{:target="_blank"}
-
- file is: ```markdown: redcarpet```
- 
- {% highlight r %}
-$$a^2 + b^2 = c^2$$
-{% endhighlight %}
-
-
-{% highlight r %}
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    processEscapes: true
-  }
-});
-</script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-{% endhighlight %}
--->
