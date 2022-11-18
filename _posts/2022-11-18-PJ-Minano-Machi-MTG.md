@@ -10,13 +10,13 @@ tags: [Data science, Local project]
 
 Hello
 
+<!--more-->
+
 <!--
 One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the
 ability to support **MathJax**, which means I can write LaTeX-like equations that get
 nicely displayed in a web browser, like this one \\( \sqrt{\frac{n!}{k!(n-k)!}} \\) or
 this one \\( x^2 + y^2 = r^2 \\).
-
-<!--more-->
 
 [//]: # (哈哈我是注释，不会在浏览器中显示。)
 
