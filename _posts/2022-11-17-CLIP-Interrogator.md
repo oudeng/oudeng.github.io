@@ -59,11 +59,14 @@ The trail on this site.
 `stanley lau, black turtleneck.`:
 *Yes. Excellent recognition of the image.*
 
-It's nteresting, something like physiognomy, isn't it?
+**It's nteresting, something like physiognomy, isn't it?**
+
+## Updated on Nov 17,2022
+
 I did further tests on Nov 17, a few days after the above first trial on Nov 8.
 
-(Test 1) Upload the same above picture, to confirm the same output contents if or not.
-(Test 2) Upload my another picture with different hair style, clothing and face angle, to confirm the new output contents.
+### (Test 1) Upload the same above picture, to confirm the same output contents if or not.
+### (Test 2) Upload my another picture with different hair style, clothing and face angle, to confirm the new output contents.
 
 Result of Test 1: The output is entirely same from the first time.
 Now we can say its analyzing mechanisms and algorithms are stable.
@@ -80,6 +83,21 @@ The CLIP Interrogator shows its intelligence in image-to-text analysis. Its crea
 Finally, I note an old Chinese saying -- "相由心生," which means "the soul surely does speak through the face to some extent."
 Am I carrying a face of AI?
 
+## Updated on Nov 18,2022
 
+Furthermore, I tested two different pictures today, named Test 3 and 4.
 
+### (Test 3)My house in Kumamoto, the countryside in Kyushu of Japan. 
+![Test 3](/assets/images/20221118_1R.png)
+
+It is a pure old Japanese-style house but covered with many solar panels on the roof. Suppose the machine can recognize the solar panels. In this case, it is brilliant for two reasons: (1) Drone picture of a bird's view, the recognization of the house needs to analyze the relationship between the house object and its environment. (2) The solar panels cover most of the roof area; Not a roof painting or light window, you might only recognize it "intelligently" with prior knowledge of solar panels. 
+
+Surprise us again. The machine recognizes the roof and solar panels correctly.
+
+### (Test 4)A geometry picture from web.
+![Test 4](/assets/images/20221118_2R.png)
+
+It is very abstract. All the above tests are the objects in real life, i.e., faces, house, solar panels, etc. Then we confirm the machine's performance on pure abstract objects.
+
+The result could be more satisfactory, finally. This test shows that the machine can perform excellently on some naturally detailed objects than abstract ones.
 
