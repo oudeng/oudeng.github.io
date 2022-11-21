@@ -99,5 +99,4 @@ Surprise us again. The machine recognizes the roof and solar panels correctly.
 
 It is very abstract. All the above tests are the objects in real life, i.e., faces, house, solar panels, etc. Then we confirm the machine's performance on pure abstract objects.
 
-The result could be more satisfactory, finally. This test shows that the machine can perform excellently on some naturally detailed objects than abstract ones.
-
+The result could be more satisfactory, finally. This test shows that the machine can perform excellently on some naturally detailed objects than abstract ones. Moreover, I'd like to learn more about its fundamental technique, which is *Stable Diffusion*. 
