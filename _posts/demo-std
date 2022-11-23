@@ -10,7 +10,6 @@ XXXXXXX
 
 <!--more-->
 
-![XXXXXXX](/assets/images/XXXXXX.png)
 
 <!--
 One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the
@@ -20,6 +19,8 @@ this one \\( x^2 + y^2 = r^2 \\).
 
 [//]: # (哈哈我是注释，不会在浏览器中显示。)
 [//]: ``` shift+@
+
+![XXXXXXX](/assets/images/XXXXXX.png)
 
 ## heading line
 
