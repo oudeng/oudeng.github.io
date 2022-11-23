@@ -12,7 +12,6 @@ Done of 4x4, 5x5 and 8x8 map(s).
 
 <!--more-->
 
- {% highlight r %}
 ## Bellman equation
 $$Q(S_t, a_t) \leftarrow Q(S_t, a_t)+\alpha [r_{t+1}+\lambda \sideset{}{}{max}_a (S_t,a)-Q(S_t, a_t))]$$  
 here,$$Q:\text{quality, Q-table}, S:\text{state}, a:\text{action}, \alpha: \text{learning rate},r:\text{reward}, \lambda: \text{discount, for blancing the short-term reward and long-term reward.}$$
