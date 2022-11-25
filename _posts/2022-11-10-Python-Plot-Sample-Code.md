@@ -1,5 +1,5 @@
 ---
-title: Python plot sample code for data preparing
+title: Python plot sample code for data preparation
 
 categories:
  - Python
