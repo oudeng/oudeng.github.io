@@ -17,5 +17,17 @@ $$Q(S_t, a_t) \leftarrow Q(S_t, a_t)+\alpha [r_{t+1}+\lambda \sideset{}{}{max}_a
 
 here,$$Q:\text{quality, Q-table}, S:\text{state}, a:\text{action}, \alpha: \text{learning rate},r:\text{reward}, \lambda: \text{discount, for blancing the short-term reward and long-term reward.}$$
 
+$$
+\begin{cases}
+Q:& \text{quality, Q-table}\\
+S:& \text{state}\\
+a:& \text{action}\\
+\alpha:& \text{learning rate}\\
+r:& \text{reward}\\
+\lambda:& \text{discount, for blancing the short-term reward and long-term reward.}
+\end{cases}$$
+
+<!-- If not work, try http://feigeek.com/posts/b1bbb984.html -->
+
 For more details, see [my GitHub](https://github.com/oudeng/Reinforcement_Learning){:target="_blank"}.
 
