@@ -142,5 +142,98 @@ $$f(x)=
 
 If not work, try http://feigeek.com/posts/b1bbb984.html
 
+### More useful examples. https://www.cnblogs.com/nowgood/p/latexstart.html
+
+$$
+\begin{array}
+\overline{a+b+c} \\
+\underline{a+b+c} \\
+\overleftarrow{a+b} \\
+\underleftarrow{a+b} \\
+\underleftrightarrow{a+b} \\
+\vec x = \vec{AB} \\
+\overbrace {a+b}^\text{a,b} \\
+a+\rlap{\overbrace{\phantom{b+c+d}}^m}b+\underbrace{c+d+e}_n+f
+\end{array}
+$$
+
+$$
+\begin{pmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i 
+\end{pmatrix} 
+$$
+
+$$
+\chi(\lambda) =  
+\begin{vmatrix}
+\lambda - a & -b & -c \\
+-d & \lambda - e & -f \\
+-g & -h & \lambda - i 
+\end{vmatrix}
+$$
+
+$$
+\begin{gather}
+(a+b) \times c = a\times c + b \times c \notag \\
+ac= a\times c \\
+\end{gather}
+$$
+
+$$
+\begin{align}
+y &= \cos t + 1 \\
+y &= 2sin t \\
+\end{align}
+$$
+
+$$
+\begin{align*}
+ x &= t & x &= \cos t &  x &= t \\
+ y &= 2t & y &= \sin (t+1) & y &= \sin t \\
+\end{align*}
+$$
+
+$$
+\begin{align*}
+& (a+b)(a^2-ab+b^2) \\
+= {}& a^3-a^2b+ab^2+a^2b-ab^2+b^2 \\
+= {}& a^3 + b^3
+\end{align*}
+$$
+
+$$
+% 注意 \tag{...} 编号的位置
+\begin{equation}
+\begin{split}
+\cos 2x &= \cos^2 x - \sin^2 x \\
+        &= 2\cos^2 x - 1  
+\end{split} \tag{3.1}
+\end{equation}  
+$$
+
+$$
+\begin{equation}\label{eq:trigonometric}
+\begin{split}
+\frac12 (\sin(x+y) + \sin(x-y))
+  &= \frac12(\sin x\cos y + \cos x\sin y) \\
+  & \quad + \frac12(\sin x\cos y - \cos x\sin y) \\
+  &= \sin x\cos y
+\end{split}
+\end{equation}
+$$
+
+$$
+\begin{equation}
+D(x) = \begin{cases}
+1, & \text{if } x \in \mathbb{Q}; \\
+0, & \text{if } x \in
+     \mathbb{R}\setminus\mathbb{Q}.
+\end{cases}
+\end{equation}
+$$
+
+
 
 
