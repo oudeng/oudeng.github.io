@@ -3,8 +3,8 @@ layout: post
 title: "Multiagent simulation methods: pyNetlogo+Netlogo or mesa or VMAS"
 categories:
  - Python
- - Reinforce learning
-tags: [Netlogo, Python-Netlogo API, Multiagent simulation]
+ - Reinforcement learning
+tags: [Netlogo, Python-Netlogo API, Multiagent simulation, Reinforcement learning]
 ---
 
 Based on a specific NetLogo program, I plan to develop it further with reinforcement learning, 
