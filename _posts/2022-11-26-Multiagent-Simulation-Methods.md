@@ -22,11 +22,11 @@ The essence of the art of multiagent simulation is the abstraction and simplific
 ## A preliminary survey for suitable methods of multiagent simulation
 
 <dl>
- <dt>My standards of suitable　methods:</dt>
- <dd>Open source with detailed description</dd>
- <dd>Python 3.8+</dd>
- <dd>Reinforcement learning compatible</dd>
- <dd>PyTorch based method prefer</dd>
+ <dt>My standards of suitable methods</dt>
+ <dd>- Open source with detailed description</dd>
+ <dd>- Python 3.8+</dd>
+ <dd>- Reinforcement learning compatible</dd>
+ <dd>- PyTorch based method prefer</dd>
 </dl>
 
 ### [VMAS](https://github.com/oudeng/VectorizedMultiAgentSimulator){:target="_blank"}  
