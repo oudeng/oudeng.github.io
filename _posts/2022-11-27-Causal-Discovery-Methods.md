@@ -16,13 +16,14 @@ Coming sonn...I am working on it.
 
 | No. | Method | Year | Paper | GitHub | Type | Sufficiency | Faithfulness | Acyclicity | Output | 
 | --- | --- | --- | --- | --- | --- | --- |--- | --- |--- |
-| [1] | [PC](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search){:target="_blank"} | 1993 | --- | [GitHub](https://github.com/keiichishima/pcalg){:target="_blank"} | contraint | Yes | Yes | No | CPDAG |
+| [1] | PC | 1993 | [Paper](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search){:target="_blank"} | [pcalg](https://github.com/keiichishima/pcalg){:target="_blank"} | contraint | Yes | Yes | No | CPDAG |
 | --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
 | --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
 
 ## Paper+GitHub of above list
-> [1] P. Spirtes, C. Glymour, and R. Scheines. 2000. Causation, prediction, and search (2nd ed.). MIT Press, Cambridge,
-Massachusetts.[Paper](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search){:target="_blank"},[GitHub](https://github.com/keiichishima/pcalg){:target="_blank"}
+> [1] [P. Spirtes, C. Glymour, and R. Scheines. 2000. Causation, prediction, and search (2nd ed.). MIT Press, Cambridge,
+Massachusetts.](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search){:target="_blank"}
+
 
 <!--
 One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the
