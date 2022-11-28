@@ -39,7 +39,11 @@ A recent youtube content.
 
 ### [pyNetlogo](https://github.com/oudeng/pyNetLogo){:target="_blank"}  
 
-Not competible for Python 3.9, but 3.8 is fine.  
+The official site: [https://pynetlogo.readthedocs.io/en/latest/install.html](https://pynetlogo.readthedocs.io/en/latest/install.html){:target="_blank"}
+
+#### Note:
+- Not competible for Python 3.9, but 3.8 is fine, according to the following youtube contents.
+- Need to install JDK. JDK 17 confirmed. Not the latest version of JDK 19.
 <iframe width="871" height="490" src="https://www.youtube.com/embed/qLBzT85Z-aM" title="Python + Netlogo = PyNetlogo Tutorial pt. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Reference:  
