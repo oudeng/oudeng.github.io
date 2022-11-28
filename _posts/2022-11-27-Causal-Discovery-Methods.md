@@ -16,7 +16,7 @@ Coming sonn...I am working on it.
 
 | No. | Method | Year | Paper | GitHub | Type | Sufficiency | Faithfulness | Acyclicity | Output | 
 | --- | --- | --- | --- | --- | --- | --- |--- | --- |--- |
-| [1] | PC | 1993 | [Paper](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search){:target="_blank"} | [pcalg](https://github.com/keiichishima/pcalg){:target="_blank"} | contraint | Yes | Yes | No | CPDAG |
+| [1] | PC | 1993 | [PDF](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search){:target="_blank"} | [Python](https://github.com/keiichishima/pcalg){:target="_blank"} | contraint | Yes | Yes | No | CPDAG |
 | --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
 | --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
 
