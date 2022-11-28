@@ -21,13 +21,11 @@ The essence of the art of multiagent simulation is the abstraction and simplific
 
 ## A preliminary survey for suitable methods of multiagent simulation
 
-<dl>
- <dt>My standards of suitable methods</dt>
- <dd>- Open source with detailed description</dd>
- <dd>- Python 3.8+</dd>
- <dd>- Reinforcement learning compatible</dd>
- <dd>- PyTorch based method prefer</dd>
-</dl>
+### My standards of suitable methods:
+- Open source with detailed description
+- Python 3.8+
+- Reinforcement learning compatible
+- PyTorch based prefer
 
 ### [VMAS](https://github.com/oudeng/VectorizedMultiAgentSimulator){:target="_blank"}  
 
@@ -46,19 +44,4 @@ Not competible for Python 3.9, but 3.8 is fine.
 
 #### Reference:  
 [https://github.com/topics/multi-agent-simulation](https://github.com/topics/multi-agent-simulation){:target="_blank"}
-
-| Header 1     | Header 2    | Header 3      |
-----------------------------------------------
-| Row 1 Col 1  | Row 1 Col 2 | Row 1 Col 3   |
-|:Left-aligned |:Centered   :| Right-aligned:|
-|              | ← Blank   → |               |
-| Row 4 Col 1  | Row 4 Col 2 | Row 4 Col 3   |
-
-
-
-~~~ pikchr
-oval "Start" fit; arrow; box "Hello, World!" fit; arrow; oval "Done" fit
-~~~
-
-
 
