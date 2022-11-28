@@ -6,7 +6,7 @@ categories:
 tags: [Causal discovery, Causal algorithm]
 ---
 
-Here summarize causal discovery methods, including some well-known open-source tools.
+Here summarize some major causal discovery methods, including their Python codes.
 
 Coming sonn...I am working on it.
 
@@ -20,10 +20,12 @@ Coming sonn...I am working on it.
 | --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
 | --- | --- | --- | --- |--- | --- | --- | --- | --- |--- |
 
-## Paper+GitHub of above list
+### Citation
 > [1] [P. Spirtes, C. Glymour, and R. Scheines. 2000. Causation, prediction, and search (2nd ed.). MIT Press, Cambridge,
 Massachusetts.](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search){:target="_blank"}
 
+### Reference
+[Causal Discovery by Shawhin Talebi](https://towardsdatascience.com/causal-discovery-6858f9af6dcb){:target="_blank"}
 
 <!--
 One of the rewards of switching my website to [Jekyll](http://jekyllrb.com/) is the
