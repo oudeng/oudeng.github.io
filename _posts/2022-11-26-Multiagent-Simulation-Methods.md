@@ -31,11 +31,21 @@ The essence of the art of multiagent simulation is the abstraction and simplific
 
 PyTorch based high ranked multiagent simulation tool with the latest updates.  
 
+Points:  
+- VMAS is a vectorized framework designed for efficient MARL benchmarking. 
+- Vectorization in PyTorch allows VMAS to perform simulations in a batch, seamlessly scaling to tens of thousands of parallel environments on accelerated hardware.
+- VMAS has an interface compatible with OpenAI Gym and with the RLlib library, enabling out-of-the-box integration with a wide range of RL algorithms.
+- Paper: [https://arxiv.org/abs/2207.03530](https://arxiv.org/abs/2207.03530){:target="_blank"}
+
+![VMAS](/assets/images/20221126_VMAS_1.png)
+
+<iframe width="900" height="433" src="https://www.youtube.com/embed/aaDRYfiesAY" title="VMAS: A Vectorized Multi-Agent Simulator for Collective Robot Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### [mesa](https://github.com/oudeng/mesa){:target="_blank"}  
 
 <iframe width="871" height="490" src="https://www.youtube.com/embed/1wa9lysIaD8" title="Tutorial - Agent Based Modelling In Python" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A recent youtube content.
+A recent youtube content. Try it later.
 
 ### [pyNetlogo](https://github.com/oudeng/pyNetLogo){:target="_blank"}  
 
@@ -44,6 +54,8 @@ The official site: [https://pynetlogo.readthedocs.io/en/latest/install.html](htt
 #### Note:
 - Not competible for Python 3.9, but 3.8 is fine, according to the following youtube contents.
 - Need to install JDK. JDK 17 confirmed. Not the latest version of JDK 19.
+- ```On a Mac, only headless mode (without GUI) is supported.```, the comment in its official document.
+
 <iframe width="871" height="490" src="https://www.youtube.com/embed/qLBzT85Z-aM" title="Python + Netlogo = PyNetlogo Tutorial pt. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Reference:  
