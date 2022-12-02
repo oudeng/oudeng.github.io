@@ -13,6 +13,10 @@ Meanwhile, my plan includes continuing to update the experiments of the candidat
 
 <!--more-->
 
+# 2022-12-2 Updated. 
+I tested ```pyNetlogo``` and ```mesa``` in the last few days. Though the both worked. ```pyNetlogo``` is no GUI on my mac environment; ```mesa``` lacks rich examples to study. The recently found item, VMAS, is a SOTA tool developed by the Cambridge team.
+
+# 2022-22-26 Original contents
 ## Why multiagent simulation?
 Multiagent simulation is a visual technology assisting in understanding natural or systemic dynamics. 
 The such simulation consists of action rules and agent strategies in a designed environment. 
