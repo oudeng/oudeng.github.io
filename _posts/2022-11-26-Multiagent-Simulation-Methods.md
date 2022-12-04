@@ -16,6 +16,9 @@ Meanwhile, my plan includes continuing to update the experiments of the candidat
 # 2022-12-2 Updated. 
 I tested ```pyNetlogo``` and ```mesa``` in the last few days. Though the both worked. ```pyNetlogo``` is no GUI on my mac environment; ```mesa``` lacks rich examples to study. The recently found item, VMAS, is a SOTA tool developed by the Cambridge team.
 
+The description from VMAS github site. 
+```VMAS has wrappers for RLlib and OpenAI Gym. RLlib has a large number of already implemented RL algorithms.```
+
 # 2022-22-26 Original contents
 ## Why multiagent simulation?
 Multiagent simulation is a visual technology assisting in understanding natural or systemic dynamics. 
