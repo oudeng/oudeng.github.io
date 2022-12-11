@@ -23,7 +23,9 @@ This is a inline code block: `python`, `print 'helloworld'`.
 ### Normal code block
 
 ```
-alert('Hello World!');
+alert('Hello World!');  
+alert('Hello World!');  
+alert('Hello World!');  
 ```
 
     print "Hello world"
