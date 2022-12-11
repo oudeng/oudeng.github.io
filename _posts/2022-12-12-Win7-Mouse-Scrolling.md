@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Change Mouse Flip Flop Wheel Direction in Windows7"
+title: "Change Mouse Wheel Scrolling Direction in Windows7"
 categories:
  - IT Tips
 tags: [Mouse scroll direction, Natual]
