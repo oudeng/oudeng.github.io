@@ -3,7 +3,7 @@ layout: post
 title: "Change Mouse Wheel Scrolling Direction in Windows7"
 categories:
  - IT Tips
-tags: [Mouse scroll direction, Natual]
+tags: [Mouse scrolling direction, Natual]
 ---
 
 Just do an easy way to change the mouse scrolling direction in a Windows system.
@@ -20,7 +20,7 @@ The steps:
 3. In its ```Device Parameters```, to change the *FlipFlopWheel* value from ```0``` to ```1```.
 4. Restart the Win7 system. 
 
-![Change mouse scrol](/assets/images/20221212_Win7mouse.png)
+![Change mouse scrolling](/assets/images/20221212_Win7mouse.png)
 
 If a high-class mouse (e.g., logi MX etc), will have a manufacturer-made application to utility some detailed operating customization, whatever mac or windows OS. The above method is a general one in the windows system.
 
