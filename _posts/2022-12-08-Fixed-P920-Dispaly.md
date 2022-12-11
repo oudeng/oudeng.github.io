@@ -16,3 +16,5 @@ sudo apt-get purge nvidia *
 sudo apt-get update
 sudo apt-get autoremove
 ```
+
+After restart, the P920 comes back with the former pretty Ubuntu desktop display.
