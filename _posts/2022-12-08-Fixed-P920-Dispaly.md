@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Fixed Lenovo P920 Nivdia driver installtion in Ubuntu 22.04"
+title: "Fixed Lenovo P920 Nvidia driver installtion in Ubuntu 22.04"
 categories:
- - IT Tips
-tags: [Mouse scroll direction, Natual]
+ - IT tips
+tags: [linux, Ubuntu, Nvidia]
 ---
 The recent Ubuntu 22.04 upgrade auto installation caused display problem in our GPU server, the Lenovo P920 workstation. 
 After surveying, I found the best solution and solved the problem by a few command lines.
