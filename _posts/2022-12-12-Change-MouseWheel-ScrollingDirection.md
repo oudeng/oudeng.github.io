@@ -2,7 +2,7 @@
 layout: post
 title: "Change Mouse Wheel Scrolling Direction in Windows7"
 categories:
- - IT
+ - IT tips
 tags: [Mouse scrolling direction, Natural]
 ---
 
