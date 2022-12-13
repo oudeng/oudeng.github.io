@@ -2,7 +2,7 @@
 layout: post
 title: "How to reset Ubuntu 22.04 root password"
 categories:
- - IT
+ - IT tips
 tags: [linux, Ubuntu, password reseting]
 ---
 
