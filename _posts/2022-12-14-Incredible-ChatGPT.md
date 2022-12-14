@@ -34,10 +34,10 @@ Accurate description by Latex codes.
 ![chatGPT](/assets/images/20221214_chatGPT_4.png)
 
 ## More exciting details next. Let's see in the screenshot video.
-<iframe width="1000" height="396" src="https://www.youtube.com/embed/VgYQzib0A_8" title="My first trail of ChatGPT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1920" height="1200" src="https://www.youtube.com/embed/VgYQzib0A_8" title="My first trial of ChatGPT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Answers from various angles
-The answers from various angles fit the same question: auto-coding performance confirmation. The question concerns the Monge-Ampère equation.
+The answers from various angles fit the same question to confirm the auto-coding performance of the chatGPT. The question concerns the Monge-Ampère equation.
 
 ### Answer-1
 ![chatGPT](/assets/images/20221214_chatGPT_5.png)
