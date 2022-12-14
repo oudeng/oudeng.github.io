@@ -14,7 +14,7 @@ ChatGPT is a recent hot topic in the AI industry worldwide. I tried it today, as
 ![chatGPT](/assets/images/20221214_chatGPT_1.png)
 
 ## My first question
-ChatGPT added English comments kindly to confirm my mother language. 
+ChatGPT added English comments kindly to confirm my mother language.  
 ![chatGPT](/assets/images/20221214_chatGPT_2.png)
 
 ## Further questions
@@ -30,7 +30,7 @@ Finally, the long-time calculated answer might cause the network error in this c
 ![chatGPT](/assets/images/20221214_chatGPT_3.png)
 
 ## Next, I start a new thread to ask the same question.
-Accurate description by Latex codes.
+Accurate description by Latex codes.  
 ![chatGPT](/assets/images/20221214_chatGPT_4.png)
 
 ## More exciting details next. Let's see in the screenshot video.
