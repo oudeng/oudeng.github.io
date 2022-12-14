@@ -30,12 +30,13 @@ Finally, the long-time calculated answer might cause the network error in this c
 ![chatGPT](/assets/images/20221214_chatGPT_3.png)
 
 ## Next, I start a new thread to ask the same question.
+Accurate description by Latex codes.
 ![chatGPT](/assets/images/20221214_chatGPT_4.png)
 
 ## More exciting details next. Let's see in the screenshot video.
 <iframe width="1000" height="396" src="https://www.youtube.com/embed/VgYQzib0A_8" title="My first trail of ChatGPT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## More highligts
+## Answers from various angles
 The answers from various angles fit the same question: auto-coding performance confirmation. The question concerns the Monge-Ampère equation.
 
 ### Answer-1
@@ -47,7 +48,7 @@ The answers from various angles fit the same question: auto-coding performance c
 ### Answer-3
 ![chatGPT](/assets/images/20221214_chatGPT_7.png)
 
-## Academic answers of multi-languages
+## Understanding descriptions
 ![chatGPT](/assets/images/20221214_chatGPT_8.png)
 ![chatGPT](/assets/images/20221214_chatGPT_81.png)
 ![chatGPT](/assets/images/20221214_chatGPT_82.png)
