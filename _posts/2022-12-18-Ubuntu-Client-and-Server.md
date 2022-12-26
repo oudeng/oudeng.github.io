@@ -62,6 +62,9 @@ It is easy to do. So only the confirmed screenshot is here.
 ### Successful access
 ![successful access](/assets/images/20221218_16_success_access.png)
 
+### （Option） tmux installation for terminal connection
+![tmux](/assets/images/20221218_17_tmux_inst.png)
+
 
 
 
