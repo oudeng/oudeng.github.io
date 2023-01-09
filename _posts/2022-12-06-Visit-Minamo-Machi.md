@@ -2,7 +2,7 @@
 layout: post
 title: "First visiting of Minano-machi, Saitama, Japan"
 categories:
- - ResearchPJ
+ - Research PJ
 tags: [Healthcare data]
 ---
 Today is my first time visiting Minano-machi, the countryside of Saitama prefecture, with two hours of driving from Nihonbashi, Tokyo. One team has stayed here for more than three months for the local healthcare data preparation.
