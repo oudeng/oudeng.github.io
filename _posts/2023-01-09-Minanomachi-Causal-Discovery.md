@@ -13,3 +13,7 @@ The title is "Support for Policy Formation and Municipal Problem-Solving Based o
 <!--more-->
 
 ![Causal discovery in Minano-Machi project](/assets/images/20230109_Causal_Discovery_MinanoMachi.png)
+
+Note:
+- NHI(KDB): Database system managed by National Health Insurance Organizations(NHI).
+- Municipal HMS: Local Health Management System managed by the municipal government.
