@@ -30,6 +30,34 @@ file is: ```markdown: redcarpet```
 
 <cite>cite</cite>.
 
+**Strong text** pellentesque ligula commodo viverra vehicula.
+
+*Italic text* at ullamcorper enim. Morbi a euismod nibh. 
+
+<u>Underline text</u>
+
+~~Deleted text~~
+
+> Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.
+
+## List Types
+
+### Definition List (dl)
+
+<dl><dt>Definition List Title</dt><dd>This is a definition list division.</dd></dl>
+
+### Ordered List (ol)
+
+1. List Item 1
+2. List Item 2
+3. List Item 3
+
+### Unordered List (ul)
+
+- List Item 1
+- List Item 2
+- List Item 3
+
 ## Table
 
 | Table Header 1 | Table Header 2 | Table Header 3 |
