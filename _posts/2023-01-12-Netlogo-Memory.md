@@ -6,7 +6,8 @@ categories:
 tags: [Netlogo]
 ---
 
-Mac OS X: The file for NetLogo will be located at: /Applications/NetLogo 6.3.0/NetLogo 6.3.0.app/Contents/app/NetLogo 6.3.0.cfg
+Mac OS X: The file for NetLogo will be located at:  
+```/Applications/NetLogo 6.3.0/NetLogo 6.3.0.app/Contents/app/NetLogo 6.3.0.cfg```
 
 Change ```-Xmx1024m``` to  ```-Xmx4096m``` in ```[JavaOptions]```.
 
