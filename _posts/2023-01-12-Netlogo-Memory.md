@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solve memory problem　 of Netlogo big model running"
+title: "Solve memory problem of Netlogo big model running"
 categories:
  - IT tips
 tags: [Netlogo]
